@@ -96,7 +96,7 @@ native
   <a href="https://leetcode.com/iamsagar099" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamsagar099" height="30" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/iamsagar99" target="_blank">
+  <a href="[https://linkedin.com/in/iamsagar99](https://www.linkedin.com/in/imsagar99/)" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/null_pointer._" target="_blank">
