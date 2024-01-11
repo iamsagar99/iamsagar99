@@ -1,6 +1,6 @@
 ### Hello World! 👋 I'm Buddhi Sagar Poudel
 
-<h3 align="center">Welcome to my profile! I am a student, aspiring writer sometimes tech explorer and always up for a digital adventure. I love problem solving and transforming ideas into the solutions.</h3>
+<h4 align="center">Welcome to my profile! I am a student, aspiring writer sometimes tech explorer and always up for a digital adventure. I love problem solving and transforming ideas into the solutions.</h3>
 
 - 🔭 I’m currently working on **AI Powered Realtime Financial Transaction Detection and Prevention**
 
