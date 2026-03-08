@@ -129,6 +129,3 @@ native
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=iamsagar99&&style=flat-square" align="center" />
 </div>  
-
-<h5>CV: https://drive.google.com/file/d/1syOG_9JqtZFZLpd8z3VWXiEVlU9pLYwa/view</h5>
-<h5>CV: https://drive.google.com/file/d/1YJQJig8d3-cB5nILnQ1I3Q7ZjcG6x2G2/view</h5>
